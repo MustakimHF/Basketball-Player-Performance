@@ -40,7 +40,7 @@ gcc analyzer.c -o analyzer
 ### 📦 Example Stats
 
 When running, you can input:
-- Name: `John Doe`
+- Name: `Robert Pattinson`
 - Points: `300`
 - Games Played: `15`
 - And other stat fields
